@@ -1,7 +1,7 @@
 # 106132-Programacion-II
 
 · S1E7 - Esquema de bucle de juego - A1a
-    - 100
+    \n- 100
 
 · S2E5 - La tetera de Russell - A1b
     - 100
