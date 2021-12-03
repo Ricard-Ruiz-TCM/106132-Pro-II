@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.0" orientation="orthogonal" renderorder="right-down" width="12" height="9" tilewidth="64" tileheight="64" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="mapa.tsx"/>
+ <tileset firstgid="41" source="../../../../../clases/Semana 8/S8E1 TileMap/App/Data/mapa.tsx"/>
+ <layer id="1" name="Capa de Patrones 1" width="12" height="9">
+  <data encoding="csv">
+41,41,41,41,41,41,41,41,41,41,41,41,
+41,41,41,41,41,41,41,41,41,41,41,41,
+41,41,54,43,43,43,43,43,43,55,41,41,
+41,41,42,41,41,41,41,41,41,42,41,41,
+41,41,42,41,41,41,41,41,41,42,41,41,
+41,41,42,41,41,41,41,41,41,42,41,41,
+41,41,56,43,43,43,43,43,43,57,41,41,
+41,41,41,41,41,41,41,41,41,41,41,41,
+41,41,41,41,41,41,41,41,41,41,41,41
+</data>
+ </layer>
+</map>
