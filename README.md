@@ -1,4 +1,4 @@
-# 106132-Programacion-II
+# 106132-Pro-II
 
 - S1E7 - Esquema de bucle de juego - A1a
 
